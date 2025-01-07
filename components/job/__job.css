@@ -1,0 +1,21 @@
+.job {
+    padding-top: 30rem;
+    padding-bottom: 15rem;
+}
+
+.job__list {
+    background-color: var(--color__dark);
+    border: 1px solid var(--color__gray);
+    border-bottom: none;
+}
+
+.job__item {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.job__item-point {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 3rem 4rem 3rem;
+}

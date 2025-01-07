@@ -1,0 +1,30 @@
+.projects {
+    padding-top: 10rem;
+}
+
+.projects__content {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.projects__slider {
+    height: 25rem;
+    background-color: white;
+}
+
+.projects__control-bullet-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-right: 1rem;
+}
+
+.projects__control-bullet-item {
+    flex: 1 1;
+    height: 0.5rem;
+    background-color: white;
+}
+
+.projects__info {
+    text-align: right;
+}

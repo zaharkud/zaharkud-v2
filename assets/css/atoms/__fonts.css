@@ -1,0 +1,66 @@
+/* Nunito */
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+	src: url('~/assets/fonts/Nunito-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
+	src: url('~/assets/fonts/Nunito-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+	src: url('~/assets/fonts/Nunito-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+	src: url('~/assets/fonts/Nunito-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+	src: url('~/assets/fonts/Nunito-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+	src: url('~/assets/fonts/Nunito-Italic.ttf') format('truetype');
+}
+
+/* ZenAntique */
+@font-face {
+	font-family: 'Zen Antique';
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+	src: url('~/assets/fonts/ZenAntique-Regular.ttf') format('truetype');
+}
+
+/* Magnet Trial */
+@font-face {
+	font-family: 'Magnet Trial';
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+	src: url('~/assets/fonts/MagnetTrial-Bold.ttf') format('truetype');
+}

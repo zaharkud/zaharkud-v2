@@ -1,0 +1,12 @@
+.stats__deco {
+    font-size: 10rem;
+}
+
+.stats__number {
+    font-size: 10rem;
+}
+
+.stats__section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

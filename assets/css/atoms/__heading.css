@@ -1,0 +1,22 @@
+.font-serif-style {
+    font-family: 'Zen Antique';
+}
+
+.font-non-serif-style {
+    font-family: 'Magnet Trial';
+}
+
+.font-accent-style {
+    color: var(--color__fill-1);
+}
+
+.h1 {
+    font-size: 10rem;
+    text-transform: uppercase;
+    line-height: 0.8;
+}
+
+.h2 {
+    font-size: 8rem;
+    text-transform: uppercase;
+}
